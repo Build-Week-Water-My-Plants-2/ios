@@ -16,6 +16,7 @@
 		E96D56BC23E8C5CE0065F589 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96D56BA23E8C5CE0065F589 /* LaunchScreen.storyboard */; };
 		E96D56C623E8E1C20065F589 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96D56C523E8E1C20065F589 /* LoginViewController.swift */; };
 		E96D56C823E8E20C0065F589 /* UserHomeStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96D56C723E8E20C0065F589 /* UserHomeStoryBoard.storyboard */; };
+		E96D56CC23EA280A0065F589 /* PlantDetailStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96D56CB23EA280A0065F589 /* PlantDetailStoryBoard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		E96D56BD23E8C5CE0065F589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E96D56C523E8E1C20065F589 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E96D56C723E8E20C0065F589 /* UserHomeStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UserHomeStoryBoard.storyboard; sourceTree = "<group>"; };
+		E96D56CB23EA280A0065F589 /* PlantDetailStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PlantDetailStoryBoard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				1B0987D323E9E4E1000033FA /* Model  */,
 				E96D56B523E8C5CD0065F589 /* Main.storyboard */,
 				E96D56C723E8E20C0065F589 /* UserHomeStoryBoard.storyboard */,
+				E96D56CB23EA280A0065F589 /* PlantDetailStoryBoard.storyboard */,
 				E96D56C523E8E1C20065F589 /* LoginViewController.swift */,
 				E96D56B823E8C5CE0065F589 /* Assets.xcassets */,
 				E96D56BA23E8C5CE0065F589 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				E96D56BC23E8C5CE0065F589 /* LaunchScreen.storyboard in Resources */,
 				E96D56C823E8E20C0065F589 /* UserHomeStoryBoard.storyboard in Resources */,
 				E96D56B923E8C5CE0065F589 /* Assets.xcassets in Resources */,
+				E96D56CC23EA280A0065F589 /* PlantDetailStoryBoard.storyboard in Resources */,
 				E96D56B723E8C5CD0065F589 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
