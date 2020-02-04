@@ -8,7 +8,6 @@
 
 import Foundation
 
-// All properties are optional in core data
 struct PlantRepresentation: Codable {
     var nickname: String
     var species: String

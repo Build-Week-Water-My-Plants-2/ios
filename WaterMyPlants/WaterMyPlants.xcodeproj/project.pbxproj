@@ -11,6 +11,8 @@
 		1B0987DC23EA1959000033FA /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0987DB23EA1959000033FA /* CoreDataStack.swift */; };
 		1B0987DE23EA19A7000033FA /* Plant+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0987DD23EA19A7000033FA /* Plant+Convenience.swift */; };
 		1B0987E023EA19E7000033FA /* PlantRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0987DF23EA19E7000033FA /* PlantRepresentation.swift */; };
+		1B0987E223EA2911000033FA /* UserRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0987E123EA2911000033FA /* UserRepresentation.swift */; };
+		1B0987E423EA2920000033FA /* User+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0987E323EA2920000033FA /* User+Convenience.swift */; };
 		E96D56B023E8C5CD0065F589 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96D56AF23E8C5CD0065F589 /* AppDelegate.swift */; };
 		E96D56B223E8C5CD0065F589 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96D56B123E8C5CD0065F589 /* SceneDelegate.swift */; };
 		E96D56B723E8C5CD0065F589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96D56B523E8C5CD0065F589 /* Main.storyboard */; };
@@ -25,6 +27,8 @@
 		1B0987DB23EA1959000033FA /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		1B0987DD23EA19A7000033FA /* Plant+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plant+Convenience.swift"; sourceTree = "<group>"; };
 		1B0987DF23EA19E7000033FA /* PlantRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantRepresentation.swift; sourceTree = "<group>"; };
+		1B0987E123EA2911000033FA /* UserRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRepresentation.swift; sourceTree = "<group>"; };
+		1B0987E323EA2920000033FA /* User+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User+Convenience.swift"; sourceTree = "<group>"; };
 		E96D56AC23E8C5CD0065F589 /* WaterMyPlants.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterMyPlants.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96D56AF23E8C5CD0065F589 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E96D56B123E8C5CD0065F589 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 				1B0987DB23EA1959000033FA /* CoreDataStack.swift */,
 				1B0987DF23EA19E7000033FA /* PlantRepresentation.swift */,
 				1B0987DD23EA19A7000033FA /* Plant+Convenience.swift */,
+				1B0987E123EA2911000033FA /* UserRepresentation.swift */,
+				1B0987E323EA2920000033FA /* User+Convenience.swift */,
 			);
 			name = "Model ";
 			sourceTree = "<group>";
@@ -175,8 +181,10 @@
 				1B0987D623E9E50B000033FA /* Plants.xcdatamodeld in Sources */,
 				1B0987DC23EA1959000033FA /* CoreDataStack.swift in Sources */,
 				E96D56B023E8C5CD0065F589 /* AppDelegate.swift in Sources */,
+				1B0987E223EA2911000033FA /* UserRepresentation.swift in Sources */,
 				1B0987E023EA19E7000033FA /* PlantRepresentation.swift in Sources */,
 				E96D56B223E8C5CD0065F589 /* SceneDelegate.swift in Sources */,
+				1B0987E423EA2920000033FA /* User+Convenience.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
