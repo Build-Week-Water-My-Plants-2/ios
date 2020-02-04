@@ -12,3 +12,4 @@ MVP
 4. Authenticated user can view a list of created `plants`. A `plant` can be Deleted or selected to present user with a detail view where user can then update any property of the selected `plant`.(mobile, web)
 5.  Authenticated user can receive local reminder/notification on their mobile device when when a scheduled `h2oFrequency` is reached. At a minimum, this reminder/notification must display the `nickname` and a short description of the task. (mobile)
 6.  Authenticated user can update their `phoneNumber` and `password`.
+7. Profit
