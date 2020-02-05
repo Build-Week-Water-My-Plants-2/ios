@@ -53,7 +53,7 @@ extension User {
     // Converting UserRepresentation (coming from JSON) into a managed object for Core Data
     @discardableResult convenience init?(userRepresentation: UserRepresentation,
                                          context: NSManagedObjectContext = CoreDataStack.shared.mainContext) {
-        
+        print("hi")
         self.init(username: userRepresentation.username,
                   password: userRepresentation.password,
                   email: userRepresentation.email,
