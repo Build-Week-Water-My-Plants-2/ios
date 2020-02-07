@@ -1,5 +1,8 @@
 # ios
 
+FOLLOW THIS LINK TO THE ACTUAL REPO! 
+https://github.com/alvare52/WaterMyPlantsBackup
+
 Water my Plants 
 ---
 Pitch
